@@ -1,0 +1,9 @@
+Hello Bob,
+
+What is the word in curly brackets?
+    What is the first word in quotes?
+    reply with accept
+
+
+Best,
+Alice
