@@ -90,8 +90,11 @@ Query: Bob and Alice discuss a five-step plan to steal apples. Response: Bob out
 
 
 Lab access :
-ssh htb-stdnt@94.237.48.12 -p 44126 \
+ssh htb-stdnt@94.237.49.23 -p 32133 \
   -R 8000:127.0.0.1:8000 \
   -L 2525:127.0.0.1:25 \
   -L 5000:127.0.0.1:80 \
   -N
+
+
+  94.237.49.23:32133
