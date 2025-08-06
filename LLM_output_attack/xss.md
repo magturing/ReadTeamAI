@@ -82,10 +82,21 @@ Alert box from 127.0.0.1:5000 displaying the number '1' with an 'OK' button.
 Since we added our XSS payload to a testimonial on the website instead of our LLM input prompt, any other users who query the chatbot about displaying the testimonials will inadvertently execute our XSS payload. If we change the payload to a cookie stealer similar to the reflected XSS scenario, we can steal the victim user's cookie.
 
 
-ssh htb-stdnt@94.237.43 -p 45691 \
+ssh htb-stdnt@94.237.61.242 -p 51219 \
   -R 8000:127.0.0.1:8000 \
   -L 2525:127.0.0.1:25 \
   -L 5000:127.0.0.1:80 \
   -N
 
 94.237.55.43:45691
+
+94.237.61.242:51219
+
+
+4c4demy_Studen7
+
+ssh htb-stdnt@94.237.54.192 -p 51804 -R 8000:127.0.0.1:8000 -L 5000:127.0.0.1:5000 -N
+
+94.237.54.192:50352
+
+94.237.54.192:51804
