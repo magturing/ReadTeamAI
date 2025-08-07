@@ -34,3 +34,7 @@ Complementary to the DSA, the AI Act is a complex legal framework that applies s
 
 Readings :-
 https://ai.google.dev/gemma/docs/shieldgemma/model_card
+https://www.nist.gov/itl/ai-risk-management-framework
+https://www.ftc.gov/news-events/news/press-releases/2024/09/ftc-announces-crackdown-deceptive-ai-claims-schemes
+https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/digital-services-act_en
+https://artificialintelligenceact.eu/
